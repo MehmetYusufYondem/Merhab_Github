@@ -1,2 +1,6 @@
 # Merhab_Github
-Github projesi
+Bu depo, Github'ı öğrenirken oluşturduğum ilk depo
+
+## Hakkımda 
+-**Bölüm:**- ...
+-**En çok merak ettiğim konu:**-
