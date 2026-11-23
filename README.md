@@ -7,4 +7,4 @@ Bu depo, Github'ı öğrenirken oluşturduğum ilk depo
 
 ## Bu depode neler var?
 
-- [ilk program] (kodlar/mehaba.py)
+- [ilk program] (kodlar/merhaba.py)
