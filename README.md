@@ -7,4 +7,4 @@ Bu depo, Github'ı öğrenirken oluşturduğum ilk depo
 
 ## Bu depode neler var?
 
-- ![Resim] (Johan_Christian_Dahl_-_The_Moon_behind_Clouds_-_Skystudie_(Månen_bak_skyene)_-_KODE_Art_Museums_and_Composer_Homes_-_RMS.M.00086(2).jpg)
+- ![Resim](Johan_Christian_Dahl_-_The_Moon_behind_Clouds_-_Skystudie_(Månen_bak_skyene)_-_KODE_Art_Museums_and_Composer_Homes_-_RMS.M.00086(2).jpg)
